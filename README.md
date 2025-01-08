@@ -19,9 +19,6 @@ This project is an AI chat app built with Flutter and Gemini API, similar to GPT
 - Image Upload: Use the image picker to upload an image. The AI will analyze it and provide insights.
 
 
-🔗 LinkedIn Post
-Check out the LinkedIn post about this project: https://shorturl.at/rZg5U
-
 
 📦 Packages Used
 - firebase_core: ^2.24.2 - Firebase core setup.
